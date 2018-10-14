@@ -1,1 +1,1 @@
-# Euler
+# Python 3 scripts that print solutions to Project Euler problems.
